@@ -7,3 +7,10 @@
 h1{
 	color:chocolate;
 }
+
+.titulo{
+	font-size: 5em;
+	width: 40%;
+	margin: 0px auto;
+	text-decoration: underline;
+}

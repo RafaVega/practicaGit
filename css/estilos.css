@@ -11,3 +11,10 @@ h1{
 ol li{
 	font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.titulo{
+	font-size: 5em;
+	width: 40%;
+	margin: 0px auto;
+	text-decoration: underline;
+}
